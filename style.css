@@ -1,9 +1,9 @@
-.list-group li:hover {
-  background-color: lightgrey;
-  color: #fff;
-}
-li:hover a {
-  color: #333;
-  font-weight: bolder;
-  font-size: 1rem;
-}
+/* body {
+  background: linear-gradient(
+    to bottom,
+    rgba(125, 126, 125, 1) 0%,
+    rgba(14, 14, 14, 1) 100%
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
